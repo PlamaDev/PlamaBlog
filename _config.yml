@@ -1,11 +1,11 @@
 # Site settings
-title: Towdium's here
-SEOTitle: Towdium's here | A personal blog
+title: Plama Dev Blog
+SEOTitle: Plama | A plasma simulation visulizing tool
 header-img: http://api.towdium.me/unsplash?category=nature&width=2600&height=500
 email: towdium@gmail.com
-description: "这里是 Towdium 的个人博客，分享我的一些学习记录，以及日常的碎碎念"
-keyword: "Towdium"
-url: "http://plamadev.github.io"              # your host, for absolute URL
+description: "The blog side for Plama, the plasma simulation visualizing tool developded by Juntong Liu"
+keyword: "Plama"
+url: "http://plama.towdium.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -62,14 +62,14 @@ disqus_username: towdium
 #ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
 ga_track_id: 'UA-73095900-1'            # Format: UA-xxxxxx-xx
-ga_domain: www.towdium.me
+ga_domain: plama.towdium.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "A foolish engineer, a hobbyist programmer and a kindergarden English speaker."
-sidebar-avatar: /img/site/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Plama, a cross-platform plasma simulation data viewing tool and more."
+sidebar-avatar: /img/site/avatar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
