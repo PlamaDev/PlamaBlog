@@ -1,7 +1,7 @@
 # Site settings
 title: Plama Dev Blog
 SEOTitle: Plama | A plasma simulation visulizing tool
-header-img: http://api.towdium.me/unsplash?category=nature&width=2600&height=500
+header-img: http://api.towdium.me/unsplash/collection/327760/2400x500
 email: towdium@gmail.com
 description: "The blog side for Plama, the plasma simulation visualizing tool developded by Juntong Liu"
 keyword: "Plama"
